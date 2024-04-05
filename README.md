@@ -1,4 +1,4 @@
-# Comprehensive Device-Specific CSS Media Queries
+# CSS Media Queries Collection
 
 Welcome to the most extensive collection of device-specific CSS media queries available on GitHub. This repository aims to assist frontend developers in creating responsive and optimized web designs that cater to a wide variety of devices, including but not limited to smartphones, tablets, laptops, and smartwatches.
 
