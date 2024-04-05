@@ -1,0 +1,987 @@
+/*
+                                ██████╗  █████╗ ██████╗  █████╗ ███╗   ██╗██████╗ ███████╗██╗   ██╗
+                                ██╔══██╗██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗██╔════╝██║   ██║
+                                ██████╔╝███████║██████╔╝███████║██╔██╗ ██║██║  ██║█████╗  ██║   ██║
+                                ██╔══██╗██╔══██║██╔══██╗██╔══██║██║╚██╗██║██║  ██║██╔══╝  ╚██╗ ██╔╝
+                                ██████╔╝██║  ██║██║  ██║██║  ██║██║ ╚████║██████╔╝███████╗ ╚████╔╝ 
+                                ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝  ╚═══╝  
+                            Please give credits to BaranDev if you will publish this file's contents.
+This document is a list of media queries for 236 different devices and some general queries. It is not a fully complete list, but it is a good starting point.
+
+*/
+
+/*----------------------------*/
+/*   General Use Queries     */
+/*--------------------------*/
+/* Extra Small Devices (Phones, less than 600px) */
+@media screen and (max-width: 599px) {
+  /* Styles */
+}
+
+/* Small Devices (Tablets in portrait mode, 600px and up) */
+@media screen and (min-width: 600px) and (max-width: 767px) {
+  /* Styles */
+}
+
+/* Medium Devices (Tablets in landscape mode / small desktops, 768px and up) */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  /* Styles */
+}
+
+/* Large Devices (Desktops, 1024px and up) */
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+  /* Styles */
+}
+
+/* Extra Large Devices (Large desktops, 1280px and up) */
+@media screen and (min-width: 1280px) {
+  /* Styles */
+}
+
+/*-----------------------------*/
+/*  Device Specific Queries   */
+/*---------------------------*/
+
+@media only screen and (min-device-width: 810px) and (max-device-width: 1080px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Apple iPad 10.2" (Tablet) */
+}
+
+@media only screen and (min-device-width: 834px) and (max-device-width: 1112px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Apple iPad Air (Tablet) */
+}
+
+@media only screen and (min-device-width: 820px) and (max-device-width: 1180px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Apple iPad Air (2020) (Tablet) */
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Apple iPad Mini (Tablet) */
+}
+
+@media only screen and (min-device-width: 834px) and (max-device-width: 1194px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Apple iPad Pro 11" (Mobile) */
+}
+
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Apple iPad Pro 12.9" (Tablet) */
+}
+
+@media only screen and (min-device-width: 414px) and (max-device-width: 896px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Apple iPhone 11 (Mobile) */
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Apple iPhone 11 Pro (Mobile) */
+}
+
+@media only screen and (min-device-width: 414px) and (max-device-width: 896px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Apple iPhone 11 Pro Max (Mobile) */
+}
+
+@media only screen and (min-device-width: 390px) and (max-device-width: 844px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Apple iPhone 12 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 780px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Apple iPhone 12 mini (Mobile) */
+}
+
+@media only screen and (min-device-width: 390px) and (max-device-width: 844px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Apple iPhone 12 Pro (Mobile) */
+}
+
+@media only screen and (min-device-width: 428px) and (max-device-width: 926px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Apple iPhone 12 Pro Max (Mobile) */
+}
+
+@media only screen and (min-device-width: 390px) and (max-device-width: 844px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Apple iPhone 13 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 780px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Apple iPhone 13 mini (Mobile) */
+}
+
+@media only screen and (min-device-width: 390px) and (max-device-width: 844px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Apple iPhone 13 Pro (Mobile) */
+}
+
+@media only screen and (min-device-width: 428px) and (max-device-width: 926px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Apple iPhone 13 Pro Max (Mobile) */
+}
+
+@media only screen and (min-device-width: 390px) and (max-device-width: 844px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Apple iPhone 14 (Mobile) */
+}
+
+@media only screen and (min-device-width: 428px) and (max-device-width: 926px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Apple iPhone 14 Plus (Mobile) */
+}
+
+@media only screen and (min-device-width: 393px) and (max-device-width: 852px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Apple iPhone 14 Pro (Mobile) */
+}
+
+@media only screen and (min-device-width: 430px) and (max-device-width: 932px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Apple iPhone 14 Pro Max (Mobile) */
+}
+
+@media only screen and (min-device-width: 393px) and (max-device-width: 852px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Apple iPhone 15 (Mobile) */
+}
+
+@media only screen and (min-device-width: 430px) and (max-device-width: 932px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Apple iPhone 15 Plus (Mobile) */
+}
+
+@media only screen and (min-device-width: 393px) and (max-device-width: 852px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Apple iPhone 15 Pro (Mobile) */
+}
+
+@media only screen and (min-device-width: 430px) and (max-device-width: 932px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Apple iPhone 15 Pro Max (Mobile) */
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Apple iPhone 5 (Mobile) */
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Apple iPhone 5c (Mobile) */
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Apple iPhone 5s (Mobile) */
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Apple iPhone 6 (Mobile) */
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Apple iPhone 6s (Mobile) */
+}
+
+@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Apple iPhone 6s Plus (Mobile) */
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Apple iPhone 7 (Mobile) */
+}
+
+@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Apple iPhone 7 Plus (Mobile) */
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Apple iPhone 8 (Mobile) */
+}
+
+@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Apple iPhone 8 Plus (Mobile) */
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Apple iPhone SE (Mobile) */
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Apple iPhone SE (2020) (Mobile) */
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Apple iPhone SE (2022) (Mobile) */
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Apple iPhone X (Mobile) */
+}
+
+@media only screen and (min-device-width: 414px) and (max-device-width: 896px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Apple iPhone XR (Mobile) */
+}
+
+@media only screen and (min-device-width: 414px) and (max-device-width: 896px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Apple iPhone XS Max (Mobile) */
+}
+
+@media only screen and (min-device-width: 197px) and (max-device-width: 162px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Apple Watch Series (40mm) (Watch) */
+}
+
+@media only screen and (min-device-width: 224px) and (max-device-width: 184px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Apple Watch Series (44mm) (Watch) */
+}
+
+@media only screen and (min-device-width: 390px) and (max-device-width: 390px) and (-webkit-min-device-pixel-ratio: 1.85) {
+  /* Styles for Blackberry Classic (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 540px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for BlackBerry Keyone (Mobile) */
+}
+
+@media only screen and (min-device-width: 390px) and (max-device-width: 695px) and (-webkit-min-device-pixel-ratio: 1.85) {
+  /* Styles for Blackberry Leap (Mobile) */
+}
+
+@media only screen and (min-device-width: 504px) and (max-device-width: 504px) and (-webkit-min-device-pixel-ratio: 2.85) {
+  /* Styles for Blackberry Passport (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 640px) and (-webkit-min-device-pixel-ratio: 4) {
+  /* Styles for BlackBerry Priv (Mobile) */
+}
+
+@media only screen and (min-device-width: 346px) and (max-device-width: 346px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Blackberry Q10 (Mobile) */
+}
+
+@media only screen and (min-device-width: 384px) and (max-device-width: 640px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Blackberry Z10 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 640px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Blackberry Z30 (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 732px) and (-webkit-min-device-pixel-ratio: 2.625) {
+  /* Styles for Google Pixel (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 732px) and (-webkit-min-device-pixel-ratio: 2.625) {
+  /* Styles for Google Pixel 2 (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 823px) and (-webkit-min-device-pixel-ratio: 3.5) {
+  /* Styles for Google Pixel 2 XL (Mobile) */
+}
+
+@media only screen and (min-device-width: 393px) and (max-device-width: 786px) and (-webkit-min-device-pixel-ratio: 2.75) {
+  /* Styles for Google Pixel 3 (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 846px) and (-webkit-min-device-pixel-ratio: 3.5) {
+  /* Styles for Google Pixel 3 XL (Mobile) */
+}
+
+@media only screen and (min-device-width: 393px) and (max-device-width: 808px) and (-webkit-min-device-pixel-ratio: 2.75) {
+  /* Styles for Google Pixel 3a (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 823px) and (-webkit-min-device-pixel-ratio: 2.625) {
+  /* Styles for Google Pixel 3a XL (Mobile) */
+}
+
+@media only screen and (min-device-width: 393px) and (max-device-width: 830px) and (-webkit-min-device-pixel-ratio: 2.75) {
+  /* Styles for Google Pixel 4 (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 869px) and (-webkit-min-device-pixel-ratio: 3.5) {
+  /* Styles for Google Pixel 4 XL (Mobile) */
+}
+
+@media only screen and (min-device-width: 393px) and (max-device-width: 851px) and (-webkit-min-device-pixel-ratio: 2.75) {
+  /* Styles for Google Pixel 4a (Mobile) */
+}
+
+@media only screen and (min-device-width: 393px) and (max-device-width: 851px) and (-webkit-min-device-pixel-ratio: 2.75) {
+  /* Styles for Google Pixel 5 (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 732px) and (-webkit-min-device-pixel-ratio: 3.5) {
+  /* Styles for Google Pixel XL (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 640px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Honor 6X (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 720px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Honor 7X (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 780px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Honor 8X (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 780px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Honor 9X (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 760px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for HTC Desire 19s (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 640px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for HTC One (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 640px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for HTC One M8 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 640px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for HTC One M9 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 640px) and (-webkit-min-device-pixel-ratio: 4) {
+  /* Styles for HTC U Ultra (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 640px) and (-webkit-min-device-pixel-ratio: 4) {
+  /* Styles for HTC U11 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 720px) and (-webkit-min-device-pixel-ratio: 4) {
+  /* Styles for HTC U11+ (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 720px) and (-webkit-min-device-pixel-ratio: 4) {
+  /* Styles for HTC U12+ (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 760px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for HTC Wildfire X (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 720px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Huawei Mate 10 Lite (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 780px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Huawei Mate 20 Lite (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 780px) and (-webkit-min-device-pixel-ratio: 4) {
+  /* Styles for Huawei Mate 20 Pro (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 780px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Huawei Mate 30 (Mobile) */
+}
+
+@media only screen and (min-device-width: 392px) and (max-device-width: 800px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Huawei Mate 30 Pro (Mobile) */
+}
+
+@media only screen and (min-device-width: 1280px) and (max-device-width: 800px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Huawei MatePad Pro (Tablet) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 800px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Huawei Nova 6 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 780px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Huawei Nova 7 Pro (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 800px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Huawei Nova 7 SE (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 770px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Huawei Nova 7i (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 640px) and (-webkit-min-device-pixel-ratio: 4) {
+  /* Styles for Huawei P10 Plus (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 760px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Huawei P20 lite (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 747px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Huawei P20 Pro (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 780px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Huawei P30 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 771px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Huawei P30 Lite (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 780px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Huawei P30 Pro (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 780px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Huawei P40 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 770px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Huawei P40 Lite (Mobile) */
+}
+
+@media only screen and (min-device-width: 400px) and (max-device-width: 880px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Huawei P40 Pro (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 640px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Huawei P8 Lite (2017) (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 640px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Huawei P9, P9 Lite (Mobile) */
+}
+
+@media only screen and (min-device-width: 227px) and (max-device-width: 227px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Huawei Watch GT (Watch) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 780px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Huawei Y9 Prime (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 780px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Huawei Y9s (Mobile) */
+}
+
+@media only screen and (min-device-width: 600px) and (max-device-width: 960px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for LG G Pad 5 10.1" (Tablet) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 640px) and (-webkit-min-device-pixel-ratio: 4) {
+  /* Styles for LG G4, G3 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 640px) and (-webkit-min-device-pixel-ratio: 4) {
+  /* Styles for LG G5 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 720px) and (-webkit-min-device-pixel-ratio: 4) {
+  /* Styles for LG G6 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 780px) and (-webkit-min-device-pixel-ratio: 4) {
+  /* Styles for LG G7 Fit, G7 One (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 780px) and (-webkit-min-device-pixel-ratio: 4) {
+  /* Styles for LG G8 ThinQ (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 780px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for LG G8X ThinQ (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 640px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for LG K10, K11 Plus (Mobile) */
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 640px) and (-webkit-min-device-pixel-ratio: 1.5) {
+  /* Styles for LG K20 (2019) (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 640px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for LG K30 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 720px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for LG K40 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 760px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for LG K50 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 800px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for LG K51S (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 780px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for LG K61 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 640px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for LG Nexus 5 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 720px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for LG Stylo 4 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 720px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for LG Stylo 5 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 640px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for LG Tribute Empire (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 760px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for LG W30 (Mobile) */
+}
+
+@media only screen and (min-device-width: 180px) and (max-device-width: 180px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for LG Watch W7 (Watch) */
+}
+
+@media only screen and (min-device-width: 1280px) and (max-device-width: 800px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for MacBook Air 13.3" (Laptop) */
+}
+
+@media only screen and (min-device-width: 1440px) and (max-device-width: 900px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for MacBook Pro (Laptop) */
+}
+
+@media only screen and (min-device-width: 1280px) and (max-device-width: 800px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for MacBook Pro 13.3" (Laptop) */
+}
+
+@media only screen and (min-device-width: 1536px) and (max-device-width: 960px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for MacBook Pro 16" (Laptop) */
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2.4) {
+  /* Styles for Microsoft Lumia 1020 (Mobile) */
+}
+
+@media only screen and (min-device-width: 432px) and (max-device-width: 768px) and (-webkit-min-device-pixel-ratio: 2.5) {
+  /* Styles for Microsoft Lumia 1520 (Mobile) */
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 1.5) {
+  /* Styles for Microsoft Lumia 520 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 640px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Microsoft Lumia 650 (Mobile) */
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2.4) {
+  /* Styles for Microsoft Lumia 925 (Mobile) */
+}
+
+@media only screen and (min-device-width: 411px) and (max-device-width: 731px) and (-webkit-min-device-pixel-ratio: 3.5) {
+  /* Styles for Microsoft Lumia 950 XL (Mobile) */
+}
+
+@media only screen and (min-device-width: 1366px) and (max-device-width: 768px) and (-webkit-min-device-pixel-ratio: 1) {
+  /* Styles for Microsoft Surface (Laptop) */
+}
+
+@media only screen and (min-device-width: 1280px) and (max-device-width: 720px) and (-webkit-min-device-pixel-ratio: 1.5) {
+  /* Styles for Microsoft Surface 2 (Laptop) */
+}
+
+@media only screen and (min-device-width: 1280px) and (max-device-width: 720px) and (-webkit-min-device-pixel-ratio: 1.5) {
+  /* Styles for Microsoft Surface 3 (Laptop) */
+}
+
+@media only screen and (min-device-width: 1500px) and (max-device-width: 1000px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Microsoft Surface Book (Laptop) */
+}
+
+@media only screen and (min-device-width: 1500px) and (max-device-width: 1000px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Microsoft Surface Book 3 (13.5") (Laptop) */
+}
+
+@media only screen and (min-device-width: 1620px) and (max-device-width: 1080px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Microsoft Surface Book 3 (15") (Laptop) */
+}
+
+@media only screen and (min-device-width: 1504px) and (max-device-width: 1003px) and (-webkit-min-device-pixel-ratio: 1.5) {
+  /* Styles for Microsoft Surface Laptop (Laptop) */
+}
+
+@media only screen and (min-device-width: 1504px) and (max-device-width: 1003px) and (-webkit-min-device-pixel-ratio: 1.5) {
+  /* Styles for Microsoft Surface Laptop 3 (13.5") (Laptop) */
+}
+
+@media only screen and (min-device-width: 1664px) and (max-device-width: 1110px) and (-webkit-min-device-pixel-ratio: 1.5) {
+  /* Styles for Microsoft Surface Laptop 3 (15") (Laptop) */
+}
+
+@media only screen and (min-device-width: 1280px) and (max-device-width: 720px) and (-webkit-min-device-pixel-ratio: 1.5) {
+  /* Styles for Microsoft Surface Pro (Laptop) */
+}
+
+@media only screen and (min-device-width: 1280px) and (max-device-width: 720px) and (-webkit-min-device-pixel-ratio: 1.5) {
+  /* Styles for Microsoft Surface Pro 2 (Laptop) */
+}
+
+@media only screen and (min-device-width: 1440px) and (max-device-width: 960px) and (-webkit-min-device-pixel-ratio: 1.5) {
+  /* Styles for Microsoft Surface Pro 3 (Laptop) */
+}
+
+@media only screen and (min-device-width: 1368px) and (max-device-width: 912px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Microsoft Surface Pro 4 (Laptop) */
+}
+
+@media only screen and (min-device-width: 1368px) and (max-device-width: 912px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Microsoft Surface Pro 5 (Laptop) */
+}
+
+@media only screen and (min-device-width: 1368px) and (max-device-width: 912px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Microsoft Surface Pro 6 (Laptop) */
+}
+
+@media only screen and (min-device-width: 1368px) and (max-device-width: 912px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Microsoft Surface Pro 7 (Laptop) */
+}
+
+@media only screen and (min-device-width: 1440px) and (max-device-width: 960px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Microsoft Surface Pro X (Laptop) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 780px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Motorola Moto G8 (Mobile) */
+}
+
+@media only screen and (min-device-width: 411px) and (max-device-width: 731px) and (-webkit-min-device-pixel-ratio: 3.5) {
+  /* Styles for Motorola Nexus 6 (Mobile) */
+}
+
+@media only screen and (min-device-width: 411px) and (max-device-width: 731px) and (-webkit-min-device-pixel-ratio: 3.5) {
+  /* Styles for Motorola Nexus 6P (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 869px) and (-webkit-min-device-pixel-ratio: 2.625) {
+  /* Styles for OnePlus 6 (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 892px) and (-webkit-min-device-pixel-ratio: 2.625) {
+  /* Styles for OnePlus 6T (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 892px) and (-webkit-min-device-pixel-ratio: 2.625) {
+  /* Styles for OnePlus 7 (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 892px) and (-webkit-min-device-pixel-ratio: 3.5) {
+  /* Styles for OnePlus 7 Pro (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 914px) and (-webkit-min-device-pixel-ratio: 2.625) {
+  /* Styles for OnePlus 7T (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 892px) and (-webkit-min-device-pixel-ratio: 3.5) {
+  /* Styles for OnePlus 7T Pro (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 915px) and (-webkit-min-device-pixel-ratio: 2.625) {
+  /* Styles for OnePlus 8 (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 906px) and (-webkit-min-device-pixel-ratio: 3.5) {
+  /* Styles for OnePlus 8 Pro (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 914px) and (-webkit-min-device-pixel-ratio: 2.625) {
+  /* Styles for OnePlus 8T (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 915px) and (-webkit-min-device-pixel-ratio: 2.625) {
+  /* Styles for OnePlus 9 (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 919px) and (-webkit-min-device-pixel-ratio: 3.5) {
+  /* Styles for OnePlus 9 Pro (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 915px) and (-webkit-min-device-pixel-ratio: 2.625) {
+  /* Styles for OnePlus Nord (Mobile) */
+}
+
+@media only screen and (min-device-width: 160px) and (max-device-width: 160px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Realme Watch 2020 (Watch) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 892px) and (-webkit-min-device-pixel-ratio: 2.625) {
+  /* Styles for Samsung A30 (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 915px) and (-webkit-min-device-pixel-ratio: 2.625) {
+  /* Styles for Samsung A31 (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 915px) and (-webkit-min-device-pixel-ratio: 2.625) {
+  /* Styles for Samsung A32/td> (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 892px) and (-webkit-min-device-pixel-ratio: 2.625) {
+  /* Styles for Samsung A50 (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 892px) and (-webkit-min-device-pixel-ratio: 2.625) {
+  /* Styles for Samsung A50s (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 915px) and (-webkit-min-device-pixel-ratio: 2.625) {
+  /* Styles for Samsung A51 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 720px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Samsung A6s (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 914px) and (-webkit-min-device-pixel-ratio: 2.625) {
+  /* Styles for Samsung A70s (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 914px) and (-webkit-min-device-pixel-ratio: 2.625) {
+  /* Styles for Samsung A71 (Mobile) */
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1076px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Samsung Fold (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 732px) and (-webkit-min-device-pixel-ratio: 2.625) {
+  /* Styles for Samsung J7 Prime2 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 640px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Samsung Note 3 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 640px) and (-webkit-min-device-pixel-ratio: 4) {
+  /* Styles for Samsung Note 4 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 740px) and (-webkit-min-device-pixel-ratio: 4) {
+  /* Styles for Samsung Note 8 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 740px) and (-webkit-min-device-pixel-ratio: 4) {
+  /* Styles for Samsung Note 9 (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 869px) and (-webkit-min-device-pixel-ratio: 2.625) {
+  /* Styles for Samsung Note10 (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 869px) and (-webkit-min-device-pixel-ratio: 3.5) {
+  /* Styles for Samsung Note10+ (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 915px) and (-webkit-min-device-pixel-ratio: 2.625) {
+  /* Styles for Samsung Note20 (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 883px) and (-webkit-min-device-pixel-ratio: 3.5) {
+  /* Styles for Samsung Note20 Ultra (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 760px) and (-webkit-min-device-pixel-ratio: 4) {
+  /* Styles for Samsung S10 (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 914px) and (-webkit-min-device-pixel-ratio: 2.625) {
+  /* Styles for Samsung S10 Lite (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 869px) and (-webkit-min-device-pixel-ratio: 3.5) {
+  /* Styles for Samsung S10+ (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 800px) and (-webkit-min-device-pixel-ratio: 4) {
+  /* Styles for Samsung S20 (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 914px) and (-webkit-min-device-pixel-ratio: 2.625) {
+  /* Styles for Samsung S20 FE (Mobile) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 915px) and (-webkit-min-device-pixel-ratio: 3.5) {
+  /* Styles for Samsung S20 Ultra (Mobile) */
+}
+
+@media only screen and (min-device-width: 384px) and (max-device-width: 854px) and (-webkit-min-device-pixel-ratio: 3.75) {
+  /* Styles for Samsung S20+ (Mobile) */
+}
+
+@media only screen and (min-device-width: 384px) and (max-device-width: 854px) and (-webkit-min-device-pixel-ratio: 3.75) {
+  /* Styles for Samsung S21 Ultra 5G (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 640px) and (-webkit-min-device-pixel-ratio: 4) {
+  /* Styles for Samsung S6 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 640px) and (-webkit-min-device-pixel-ratio: 4) {
+  /* Styles for Samsung S6 edge (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 640px) and (-webkit-min-device-pixel-ratio: 4) {
+  /* Styles for Samsung S7 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 640px) and (-webkit-min-device-pixel-ratio: 4) {
+  /* Styles for Samsung S7 Edge (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 740px) and (-webkit-min-device-pixel-ratio: 4) {
+  /* Styles for Samsung S8 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 740px) and (-webkit-min-device-pixel-ratio: 4) {
+  /* Styles for Samsung S8+ (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 740px) and (-webkit-min-device-pixel-ratio: 4) {
+  /* Styles for Samsung S9 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 740px) and (-webkit-min-device-pixel-ratio: 4) {
+  /* Styles for Samsung S9+ (Mobile) */
+}
+
+@media only screen and (min-device-width: 180px) and (max-device-width: 180px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Samsung Watch 1.2" (42MM) (Watch) */
+}
+
+@media only screen and (min-device-width: 180px) and (max-device-width: 180px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Samsung Watch 1.3" (46MM) (Watch) */
+}
+
+@media only screen and (min-device-width: 180px) and (max-device-width: 180px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Samsung Watch 3 1.2" (41MM) - 2020 (Watch) */
+}
+
+@media only screen and (min-device-width: 180px) and (max-device-width: 180px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Samsung Watch 3 1.4" (45MM) - 2020 (Watch) */
+}
+
+@media only screen and (min-device-width: 180px) and (max-device-width: 180px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Samsung Watch Active 1.2" (40MM) - 2019 (Watch) */
+}
+
+@media only screen and (min-device-width: 180px) and (max-device-width: 180px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Samsung Watch Active 1.4" (44MM) - 2019 (Watch) */
+}
+
+@media only screen and (min-device-width: 412px) and (max-device-width: 1004px) and (-webkit-min-device-pixel-ratio: 2.625) {
+  /* Styles for Samsung Z Flip (Mobile) */
+}
+
+@media only screen and (min-device-width: 884px) and (max-device-width: 1104px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Samsung Z Fold2 (Mobile) */
+}
+
+@media only screen and (min-device-width: 411px) and (max-device-width: 960px) and (-webkit-min-device-pixel-ratio: 4) {
+  /* Styles for Sony Xperia 1 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 840px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Sony Xperia 10 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 840px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Sony Xperia 10 Plus (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 840px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Sony Xperia 5 (Mobile) */
+}
+
+@media only screen and (min-device-width: 540px) and (max-device-width: 960px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Sony Xperia C4 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 840px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Sony Xperia L4 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 640px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Sony Xperia X (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 640px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Sony Xperia XZ (Mobile) */
+}
+
+@media only screen and (min-device-width: 540px) and (max-device-width: 960px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Sony Xperia Z Ultra (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 640px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Sony Xperia Z2 / Z3 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 640px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Sony Xperia Z3 (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 640px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Sony Xperia Z5 (Mobile) */
+}
+
+@media only screen and (min-device-width: 385px) and (max-device-width: 854px) and (-webkit-min-device-pixel-ratio: 1.875) {
+  /* Styles for vivo Y20 (Mobile) */
+}
+
+@media only screen and (min-device-width: 393px) and (max-device-width: 851px) and (-webkit-min-device-pixel-ratio: 2.75) {
+  /* Styles for Xiaomi Mi 10 (Mobile) */
+}
+
+@media only screen and (min-device-width: 393px) and (max-device-width: 851px) and (-webkit-min-device-pixel-ratio: 2.75) {
+  /* Styles for Xiaomi Mi 10 Pro (Mobile) */
+}
+
+@media only screen and (min-device-width: 393px) and (max-device-width: 873px) and (-webkit-min-device-pixel-ratio: 2.75) {
+  /* Styles for Xiaomi Mi 10T, Xiaomi Mi 10T Pro (Mobile) */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 640px) and (-webkit-min-device-pixel-ratio: 3) {
+  /* Styles for Xiaomi Mi 3 (Mobile) */
+}
+
+@media only screen and (min-device-width: 393px) and (max-device-width: 816px) and (-webkit-min-device-pixel-ratio: 2.75) {
+  /* Styles for Xiaomi Mi 6 (Mobile) */
+}
+
+@media only screen and (min-device-width: 393px) and (max-device-width: 816px) and (-webkit-min-device-pixel-ratio: 2.75) {
+  /* Styles for Xiaomi Mi 8 SE (Mobile) */
+}
+
+@media only screen and (min-device-width: 393px) and (max-device-width: 817px) and (-webkit-min-device-pixel-ratio: 2.75) {
+  /* Styles for Xiaomi Mi 8, Mi 8 Pro (Mobile) */
+}
+
+@media only screen and (min-device-width: 393px) and (max-device-width: 851px) and (-webkit-min-device-pixel-ratio: 2.75) {
+  /* Styles for Xiaomi Mi 9 Lite (Mobile) */
+}
+
+@media only screen and (min-device-width: 393px) and (max-device-width: 851px) and (-webkit-min-device-pixel-ratio: 2.75) {
+  /* Styles for Xiaomi Mi 9 SE (Mobile) */
+}
+
+@media only screen and (min-device-width: 393px) and (max-device-width: 851px) and (-webkit-min-device-pixel-ratio: 2.75) {
+  /* Styles for Xiaomi Mi 9, Mi 9T (Mobile) */
+}
+
+@media only screen and (min-device-width: 227px) and (max-device-width: 227px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Xiaomi Mi Watch 2020 (Watch) */
+}
+
+@media only screen and (min-device-width: 227px) and (max-device-width: 227px) and (-webkit-min-device-pixel-ratio: 2) {
+  /* Styles for Xiaomi Mi Watch Revolve 2020 (Watch) */
+}
+
+@media only screen and (min-device-width: 393px) and (max-device-width: 851px) and (-webkit-min-device-pixel-ratio: 2.75) {
+  /* Styles for Xiaomi Redmi Note 7 (Mobile) */
+}
+
+@media only screen and (min-device-width: 393px) and (max-device-width: 851px) and (-webkit-min-device-pixel-ratio: 2.75) {
+  /* Styles for Xiaomi Redmi Note 8 (Mobile) */
+}
+
+@media only screen and (min-device-width: 393px) and (max-device-width: 851px) and (-webkit-min-device-pixel-ratio: 2.75) {
+  /* Styles for Xiaomi Redmi Note 8 Pro (Mobile) */
+}
+
+@media only screen and (min-device-width: 393px) and (max-device-width: 851px) and (-webkit-min-device-pixel-ratio: 2.75) {
+  /* Styles for Xiaomi Redmi Note 9 (Mobile) */
+}
+
+@media only screen and (min-device-width: 393px) and (max-device-width: 873px) and (-webkit-min-device-pixel-ratio: 2.75) {
+  /* Styles for Xiaomi Redmi Note 9 Pro (Mobile) */
+}
