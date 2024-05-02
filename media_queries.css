@@ -11,7 +11,7 @@ This document is a list of media queries for 236 different devices and some gene
 */
 
 /*----------------------------*/
-/*   General Queries     */
+/*   General Use Queries     */
 /*--------------------------*/
 /* Extra Small Devices (Phones, less than 600px) */
 @media screen and (max-width: 599px) {
